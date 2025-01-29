@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lektion2_MauiTodo.MainPage">
+    <Grid RowDefinitions="1*, 1*, 1*, 1*, 8*"
+        MaximumWidthRequest="400"
+        Padding="20">
+        <Label Text="Maui Todo"/>        
+        <Entry x:Name="TodoTitle"/>
+        <DatePicker x:Name="DueDatepicker"/>
+        <Button
+            Text="Add"
+            Clicked="Button_Clicked"/>
+        <ScrollView Grid.Row="4">     
+            <Label 
+                x:Name="TodosLabel"/>
+            </ScrollView>
+    </Grid>
+    
+
+</ContentPage>
