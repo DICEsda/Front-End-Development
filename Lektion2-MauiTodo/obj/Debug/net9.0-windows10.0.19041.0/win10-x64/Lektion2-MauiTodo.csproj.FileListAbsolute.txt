@@ -474,3 +474,4 @@ c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-windows10.0.19
 c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Lektion2-MauiTodo.sourcelink.json

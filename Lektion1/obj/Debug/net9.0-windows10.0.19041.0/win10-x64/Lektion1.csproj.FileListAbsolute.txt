@@ -469,3 +469,4 @@ C:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-windows10.0.19041.0\win
 C:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+c:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Lektion1.sourcelink.json
