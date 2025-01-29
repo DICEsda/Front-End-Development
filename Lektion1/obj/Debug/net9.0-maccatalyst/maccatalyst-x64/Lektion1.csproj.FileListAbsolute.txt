@@ -295,3 +295,4 @@ c:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-maccatalyst\maccatalyst
 c:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\Lektion1.pdb
 c:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\Lektion1.genruntimeconfig.cache
 c:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\Lektion1.dll
+c:\Users\45425\Desktop\FED\FED\Lektion1\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\Lektion1.sourcelink.json

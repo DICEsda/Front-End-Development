@@ -300,3 +300,4 @@ c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-maccatalyst\ma
 c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\Lektion2-MauiTodo.pdb
 c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\Lektion2-MauiTodo.genruntimeconfig.cache
 c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\ref\Lektion2-MauiTodo.dll
+c:\Users\45425\Desktop\FED\FED\Lektion2-MauiTodo\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\Lektion2-MauiTodo.sourcelink.json
