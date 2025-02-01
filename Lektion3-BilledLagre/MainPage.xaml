@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lektion3_BilledLagre.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Label
+                Text="Billed Lagre"
+                FontSize="30"
+                HorizontalOptions="Center" />
+            <Button
+                Text ="Select image"/>
+
+            <Button
+                Text="Add image"/>
+
+            <Entry
+                Placeholder ="Enter a title"
+                />
+                <!-- TODO Begin here -->
+            <Editor 
+                Placeholder ="Enter a description"/>
+            <
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

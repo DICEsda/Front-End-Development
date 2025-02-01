@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion1", "Lektion1\Lektio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion2-MauiTodo", "Lektion2-MauiTodo\Lektion2-MauiTodo.csproj", "{E8F12903-D67F-4C80-A3A1-398F58F9A6FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lektion3-BilledLagre", "Lektion3-BilledLagre\Lektion3-BilledLagre.csproj", "{613DE4C4-DB73-45C0-81BC-350F566F9514}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{E8F12903-D67F-4C80-A3A1-398F58F9A6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8F12903-D67F-4C80-A3A1-398F58F9A6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8F12903-D67F-4C80-A3A1-398F58F9A6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613DE4C4-DB73-45C0-81BC-350F566F9514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613DE4C4-DB73-45C0-81BC-350F566F9514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613DE4C4-DB73-45C0-81BC-350F566F9514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613DE4C4-DB73-45C0-81BC-350F566F9514}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
