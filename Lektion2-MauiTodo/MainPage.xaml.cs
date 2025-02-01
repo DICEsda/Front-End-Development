@@ -1,26 +1,56 @@
-﻿using MauiTodo.Models;
-namespace Lektion2_MauiTodo;
+﻿using System;
+using System.Threading.Tasks;
+using Microsoft.Maui.Controls;
+using MauiTodo.Data;
+using MauiTodo.Models;
 
-public partial class MainPage : ContentPage
+namespace Lektion2_MauiTodo
 {
-	string _todoListData = string.Empty; //Values of the to-do items
-	readonly Database _database; //Stores an instance of the database clas
+    public partial class MainPage : ContentPage
+    {
+        private Database _database;
+        private string _todoListData = string.Empty;
 
-	public MainPage() {
-		_database = new Database(); //create an instance of the database class & assign it to the _database field.
-		_ = Initialize(); //Uses the discard variable to call our Initialize meth
-		InitializeComponent();
-	}
-	private async Task Initialize() { //Async/Await
-		await Task.CompletedTask;
-	}	
-	
-	private void Button_Clicked(object sender, EventArgs e){ // Event Handler TODO
+        public MainPage()
+        {
+            InitializeComponent();
+            _database = new Database();
+            _ = Initialize();
+        }
 
-	}
+        private async Task Initialize()
+        {
+            var todos = await _database.GetTodos();
+            foreach (var todo in todos)
+            {
+                _todoListData += $"{todo.Title} - {todo.Due:f}{Environment.NewLine}";
+            }
+            TodosLabel.Text = _todoListData;
+        }
 
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            var todo = new TodoItem
+            {
+                Due = DueDatepicker.Date,
+                Title = TodoTitleEntry.Text
+            };
+            var inserted = await _database.AddTodo(todo);
+            if (inserted != 0)
+            {
+                _todoListData += $"{todo.Title} - {todo.Due:f}{Environment.NewLine}";
+                TodosLabel.Text = _todoListData;
+                TodoTitleEntry.Text = string.Empty;
+                DueDatepicker.Date = DateTime.Now;
+            }
+        }
+
+        private async void Slide_colorchanged(object sender, EventArgs e)
+        {
+            var slider = (Slider)sender;
+            var value = slider.Value;
+            var color = Color.FromHsla(value, 1, 0.5);
+            slider.BackgroundColor = color;
+        }
+    }
 }
-
-
-
-

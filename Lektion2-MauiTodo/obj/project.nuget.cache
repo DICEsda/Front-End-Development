@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YwG2K1xDQJQ=",
+  "dgSpecHash": "yPvP9CAfzp4=",
   "success": true,
   "projectFilePath": "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion2-MauiTodo\\Lektion2-MauiTodo.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,10 @@
     "C:\\Users\\45425\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.1.2\\sqlitepclraw.lib.e_sqlite3.android.2.1.2.nupkg.sha512",
+    "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.1.4\\sqlitepclraw.provider.dynamic_cdecl.2.1.4.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\sqlitepclraw.provider.sqlite3\\2.1.2\\sqlitepclraw.provider.sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",

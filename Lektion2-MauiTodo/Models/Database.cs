@@ -1,11 +1,9 @@
-﻿using SQLite;
-using System;
+﻿using MauiTodo.Models;
+using SQLite;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace MauiTodo.Models
+namespace MauiTodo.Data
 {
     public class Database
     {
@@ -26,12 +24,11 @@ namespace MauiTodo.Models
             }
 
             var dbOptions = new SQLiteConnectionString(databasePath, true, key: _dbEncryptionKey);
-
             _connection = new SQLiteAsyncConnection(dbOptions);
-            _ = Intialise();
+            _ = Initialise();
         }
 
-        private async Task Intialise()
+        private async Task Initialise()
         {
             await _connection.CreateTableAsync<TodoItem>();
         }
@@ -47,7 +44,7 @@ namespace MauiTodo.Models
             return await query.FirstOrDefaultAsync();
         }
 
-        public async Task<int> Addtodo(TodoItem item)
+        public async Task<int> AddTodo(TodoItem item)
         {
             return await _connection.InsertAsync(item);
         }
@@ -61,6 +58,5 @@ namespace MauiTodo.Models
         {
             return await _connection.UpdateAsync(item);
         }
-
     }
 }

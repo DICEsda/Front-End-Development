@@ -79,6 +79,10 @@
               "version": "[9.0.1, )",
               "autoReferenced": true
             },
+            "SQLitePCLRaw.provider.dynamic_cdecl": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.9.172, )"
