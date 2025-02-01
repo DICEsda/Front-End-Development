@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lektion2-MauiTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ebd882136ea526d9e49a5ac1ea2bcd08c951b916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f0d6830384902963566b9d451474fa8482770585")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lektion2-MauiTodo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lektion2-MauiTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
