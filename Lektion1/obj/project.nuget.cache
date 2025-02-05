@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LcpEESnINPI=",
+  "dgSpecHash": "DctLkYec7sw=",
   "success": true,
-  "projectFilePath": "c:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\Lektion1.csproj",
+  "projectFilePath": "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\Lektion1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\45425\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",
     "C:\\Users\\45425\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
