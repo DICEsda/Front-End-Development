@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\Lektion1.csproj": {}
+    "c:\\Users\\Dice8\\Desktop\\GITHUB\\4-Semester\\Front-End-Development\\Lektion1\\Lektion1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\Lektion1.csproj": {
+    "c:\\Users\\Dice8\\Desktop\\GITHUB\\4-Semester\\Front-End-Development\\Lektion1\\Lektion1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\Lektion1.csproj",
+        "projectUniqueName": "c:\\Users\\Dice8\\Desktop\\GITHUB\\4-Semester\\Front-End-Development\\Lektion1\\Lektion1.csproj",
         "projectName": "Lektion1",
-        "projectPath": "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\Lektion1.csproj",
-        "packagesPath": "C:\\Users\\45425\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\45425\\Desktop\\FED\\FED\\Lektion1\\obj\\",
+        "projectPath": "c:\\Users\\Dice8\\Desktop\\GITHUB\\4-Semester\\Front-End-Development\\Lektion1\\Lektion1.csproj",
+        "packagesPath": "C:\\Users\\Dice8\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Dice8\\Desktop\\GITHUB\\4-Semester\\Front-End-Development\\Lektion1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\45425\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\Dice8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-android",
