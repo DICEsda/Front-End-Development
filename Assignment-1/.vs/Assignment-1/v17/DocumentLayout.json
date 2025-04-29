@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\resources\\styles\\customstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:resources\\styles\\customstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\views\\reservationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:views\\reservationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\views\\overviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:views\\overviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\views\\overviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:views\\overviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\resources\\fonts\\fluentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:resources\\fonts\\fluentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\resources\\fonts\\fontawesomebrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:resources\\fonts\\fontawesomebrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\resources\\fonts\\iconfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:resources\\fonts\\iconfont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\resources\\fonts\\fontawesomesolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:resources\\fonts\\fontawesomesolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\resources\\fonts\\fontawesomeregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:resources\\fonts\\fontawesomeregular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\views\\invoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:views\\invoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\views\\invoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:views\\invoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\views\\reservationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:views\\reservationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|c:\\users\\dice8\\desktop\\fed\\assignment-1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D211132-AC32-42E2-8371-AE4AC9D825C7}|Assignment-1.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\ReservationPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ReservationPage.xaml",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\ReservationPage.xaml",
+              "RelativeToolTip": "Views\\ReservationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T12:29:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OverviewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\OverviewPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\OverviewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\OverviewPage.xaml.cs",
+              "RelativeToolTip": "Views\\OverviewPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:14:59.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FontAwesomeRegular.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FontAwesomeRegular.cs",
+              "RelativeDocumentMoniker": "Resources\\Fonts\\FontAwesomeRegular.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FontAwesomeRegular.cs",
+              "RelativeToolTip": "Resources\\Fonts\\FontAwesomeRegular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:31:51.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FontAwesomeSolid.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FontAwesomeSolid.cs",
+              "RelativeDocumentMoniker": "Resources\\Fonts\\FontAwesomeSolid.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FontAwesomeSolid.cs",
+              "RelativeToolTip": "Resources\\Fonts\\FontAwesomeSolid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:21:01.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IconFont.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\IconFont.cs",
+              "RelativeDocumentMoniker": "Resources\\Fonts\\IconFont.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\IconFont.cs",
+              "RelativeToolTip": "Resources\\Fonts\\IconFont.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:40:26.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:03:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FontAwesomeBrands.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FontAwesomeBrands.cs",
+              "RelativeDocumentMoniker": "Resources\\Fonts\\FontAwesomeBrands.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FontAwesomeBrands.cs",
+              "RelativeToolTip": "Resources\\Fonts\\FontAwesomeBrands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:40:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Styles\\CustomStyles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\CustomStyles.xaml",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Styles\\CustomStyles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\CustomStyles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:05:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:34:44.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:03:03.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:55:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OverviewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\OverviewPage.xaml",
+              "RelativeDocumentMoniker": "Views\\OverviewPage.xaml",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\OverviewPage.xaml",
+              "RelativeToolTip": "Views\\OverviewPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:15:14.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvoicePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\InvoicePage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\InvoicePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\InvoicePage.xaml.cs",
+              "RelativeToolTip": "Views\\InvoicePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:54:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoicePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\InvoicePage.xaml",
+              "RelativeDocumentMoniker": "Views\\InvoicePage.xaml",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\InvoicePage.xaml",
+              "RelativeToolTip": "Views\\InvoicePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T02:56:58.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InvoiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\InvoiceViewModel.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeToolTip": "ViewModels\\InvoiceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:58:09.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FluentUI.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FluentUI.cs",
+              "RelativeDocumentMoniker": "Resources\\Fonts\\FluentUI.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Resources\\Fonts\\FluentUI.cs",
+              "RelativeToolTip": "Resources\\Fonts\\FluentUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:59:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReservationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\ReservationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ReservationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\Views\\ReservationPage.xaml.cs",
+              "RelativeToolTip": "Views\\ReservationPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:18:53.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OverviewViewmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\ViewModels\\OverviewViewmodel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OverviewViewmodel.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\ViewModels\\OverviewViewmodel.cs",
+              "RelativeToolTip": "ViewModels\\OverviewViewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:14:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Dice8\\Desktop\\FED\\Assignment-1\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:55:16.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
