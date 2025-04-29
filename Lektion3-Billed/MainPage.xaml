@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lektion3_Billed.MainPage">
+
+    <ScrollView>
+        <HorizontalStackLayout Spacing="50" Padding="50">
+            <VerticalStackLayout
+                Padding="100,0"
+                Spacing="25">
+                <Label
+                    Text="Indsæt billede"
+                    FontSize="30"
+                    HorizontalOptions="Center" />
+                <Button
+                    Text ="Select image"
+                    Clicked = "OnSelectedImageClicked"/>
+
+                <Button
+                    Text="Add image"/>
+                <Entry
+                    Placeholder ="Enter a title"
+                    />
+                    <!-- TODO Begin here -->
+                <Editor 
+                    Placeholder ="Enter a description"
+                    />
+
+            </VerticalStackLayout>
+
+            <VerticalStackLayout>
+                    <Image
+                    x:Name="SelectedImage"
+                    HeightRequest="200"
+                    WidthRequest="200"
+                    Aspect="AspectFill"
+                    />
+            </VerticalStackLayout>
+        </HorizontalStackLayout>
+    </ScrollView>
+</ContentPage>

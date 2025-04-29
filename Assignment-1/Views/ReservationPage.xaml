@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment_1.Views.ResevationPage"
+             xmlns:style="clr-namespace:Assignment_1.Resources.Fonts">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Overview"
+                     IconImageSource="{FontImage FontFamily=FontAwesomeSolid, Glyph={x:Static style:FontAwesomeSolid.BookOpen}, Color=Black}"
+                     />
+        <ToolbarItem Text="Invoice"
+                     IconImageSource="{FontImage FontFamily=FontAwesomeSolid, Glyph={x:Static style:FontAwesomeSolid.Receipt}, Color=Black}"
+                      />
+    </ContentPage.ToolbarItems>
+    
+    <Grid Padding="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+        
+        <StackLayout Grid.Column="0" VerticalOptions="Start">
+
+            <Label Text="Car Shop" Style="{StaticResource TitleLabelStyle}" />
+
+            <Label Text="Name" Style="{StaticResource LabelStyle}" />
+            <Entry Text="{Binding User.Name}" 
+                   Placeholder="Enter your name" 
+                   Style="{StaticResource EntryStyle}" />
+
+            <Label Text="Adresse" Style="{StaticResource LabelStyle}" />
+            <Entry Text="{Binding User.Adresse}" 
+                   Placeholder="Enter your Address" 
+                   Style="{StaticResource EntryStyle}" />
+
+            <Label Text="Car Brand" Style="{StaticResource LabelStyle}" />
+            <Entry Text="{Binding User.Brand}" 
+                   Placeholder="Enter your Car Brand" 
+                   Style="{StaticResource EntryStyle}" />
+
+            <Label Text="Car Model" Style="{StaticResource LabelStyle}" />
+            <Entry Text="{Binding User.Model}" 
+                   Placeholder="Enter your Car Model" 
+                   Style="{StaticResource EntryStyle}" />
+
+            <Label Text="Registry" Style="{StaticResource LabelStyle}" />
+            <Entry Text="{Binding User.Registry}" 
+                   Placeholder="Enter your Registration" 
+                   Style="{StaticResource EntryStyle}" />
+
+            <Label Text="Select a date for pickup" 
+                   Style="{StaticResource LabelStyle}" 
+                   HorizontalOptions="Center" />
+            
+            <DatePicker Date="{Binding User.SelectedDate}" 
+                   Style="{StaticResource DatePickerStyle}" />
+
+            <Label Text="Time of pickup" 
+                   Style="{StaticResource LabelStyle}" 
+                   HorizontalOptions="Center" />
+            
+            <TimePicker Time="{Binding User.SelectedTime}" 
+                    Style="{StaticResource TimePickerStyle}" />
+
+            <HorizontalStackLayout Grid.Column="0" HorizontalOptions="Center" Spacing="10">
+                <Button Command="{Binding ConfirmCommand}"
+                        Style="{StaticResource ConfirmButtonStyle}" />
+
+                <Button Command="{Binding CancelCommand}"
+                        Style="{StaticResource CancelButtonStyle}" />
+            </HorizontalStackLayout>
+
+        </StackLayout>
+
+        <StackLayout Grid.Column="1" VerticalOptions="Center">
+            <Label 
+                   Text="What issues need addressed?" 
+                   Style="{StaticResource LabelStyle}" 
+                   HorizontalOptions="Center" />
+
+            <Editor Text="{Binding User.Description}" 
+                    Placeholder="Description" 
+                    HorizontalOptions="Fill"
+                    Style="{StaticResource EditorStyle}" />
+        </StackLayout>
+
+    </Grid>
+
+</ContentPage>

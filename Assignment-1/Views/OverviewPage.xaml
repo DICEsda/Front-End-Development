@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Assignment_1.OverviewViewModel"
+             x:Class="Assignment_1.Views.OverviewPage"
+             xmlns:model="clr-namespace:Assignment_1.Models"
+             x:DataType="vm:CalendarPageViewModel">
+
+<Grid Padding="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout Grid.Column="0" VerticalOptions="Center">
+            <!-- Label with custom style -->
+            <Label Style="{StaticResource TitleLabelStyle}"
+                   Text="Select a date" 
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center" />
+
+            <!-- DatePicker with custom style -->
+            <DatePicker Date="{Binding SelectedDate}" 
+                        Style="{StaticResource DatePickerStyle}" />
+
+            <!-- Button with custom style -->
+            <Button Text="Show the stored tasks for that date"
+                    Command="{Binding ShowTasksCommand}"
+                    Style="{StaticResource ConfirmButtonStyle}"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center"
+                    WidthRequest="300"
+                    Margin="10"/>
+        </StackLayout>
+
+        <StackLayout Grid.Column="1" VerticalOptions="Start">
+            <!-- Subtitle label with custom style -->
+            <Label Style="{StaticResource SubtitleLabelStyle}"
+                   Text="Showing tasks for selected date" 
+                   Margin="10" />
+
+            <!-- ListView displaying tasks with custom styles for labels inside ViewCell -->
+            <ListView ItemsSource="{Binding TasksForSelectedDate}">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="model:UserEntry">
+                        <ViewCell>
+                            <StackLayout Padding="10">
+                                <Label Text="{Binding Name}" Style="{StaticResource LabelStyle}" FontAttributes="Bold" />
+                                <Label Text="{Binding Adresse}" Style="{StaticResource LabelStyle}" />
+                                <Label Text="{Binding Brand}" Style="{StaticResource LabelStyle}" />
+                                <Label Text="{Binding Model}" Style="{StaticResource LabelStyle}" />
+                                <Label Text="{Binding Registry}" Style="{StaticResource LabelStyle}" />
+                                <Label Text="{Binding Description}" Style="{StaticResource LabelStyle}" />
+                                <Label Text="{Binding SelectedDate, StringFormat='Selected Date: {0:MM/dd/yyyy}'}" Style="{StaticResource LabelStyle}" />
+                                <Label Text="{Binding SelectedTime, StringFormat='Selected Time: {0:hh\\:mm}'}" Style="{StaticResource LabelStyle}" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </Grid>
+</ContentPage>

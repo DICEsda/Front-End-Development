@@ -1,0 +1,9 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="Lektion3_Billed.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:Lektion3_Billed.WinUI">
+
+</maui:MauiWinUIApplication>
+

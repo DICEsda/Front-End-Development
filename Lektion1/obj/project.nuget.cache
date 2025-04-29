@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y50AbtPxY0g=",
+  "dgSpecHash": "sJq64zwyRPo=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Dice8\\Desktop\\GITHUB\\4-Semester\\Front-End-Development\\Lektion1\\Lektion1.csproj",
+  "projectFilePath": "C:\\Users\\Dice8\\Desktop\\FED\\Lektion1\\Lektion1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dice8\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
@@ -25,7 +25,7 @@
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.maui.graphics\\9.0.14\\microsoft.maui.graphics.9.0.14.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\9.0.14\\microsoft.maui.graphics.win2d.winui.desktop.9.0.14.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.maui.resizetizer\\9.0.14\\microsoft.maui.resizetizer.9.0.14.nupkg.sha512",
-    "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.1\\microsoft.net.illink.tasks.9.0.1.nupkg.sha512",
+    "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.2\\microsoft.net.illink.tasks.9.0.2.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.web.webview2\\1.0.2792.45\\microsoft.web.webview2.1.0.2792.45.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.windowsappsdk\\1.6.240923002\\microsoft.windowsappsdk.1.6.240923002.nupkg.sha512",
@@ -120,6 +120,9 @@
     "C:\\Users\\Dice8\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.8.1.3\\xamarin.kotlinx.coroutines.core.jvm.1.8.1.3.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\xamarin.kotlinx.serialization.core\\1.7.1.3\\xamarin.kotlinx.serialization.core.1.7.1.3.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\xamarin.kotlinx.serialization.core.jvm\\1.7.1.3\\xamarin.kotlinx.serialization.core.jvm.1.7.1.3.nupkg.sha512",
+    "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.4\\microsoft.netcore.app.ref.9.0.4.nupkg.sha512",
+    "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.4\\microsoft.netcore.app.ref.9.0.4.nupkg.sha512",
+    "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.4\\microsoft.netcore.app.ref.9.0.4.nupkg.sha512",
     "C:\\Users\\Dice8\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
   "logs": []

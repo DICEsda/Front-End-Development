@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Assignment_1.Views.InvoicePage"
+             xmlns:model="clr-namespace:Assignment_1.Models">
+
+    <Grid Padding="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <StackLayout Grid.Column="0" VerticalOptions="Center">
+
+            <Label Text="Invoice" Style="{StaticResource TitleLabelStyle}" />
+
+            <Label Text="Mechanic" Style="{StaticResource LabelStyle}" />
+            <Entry Text="{Binding Invoice.Mechanic, Mode=TwoWay}"
+                   Placeholder="Who did the job?"
+                   Style="{StaticResource EntryStyle}" />
+
+            <Label Text="Material" Style="{StaticResource LabelStyle}" />
+            <Picker ItemsSource="{Binding Materials}"
+                    SelectedItem="{Binding Invoice.Material, Mode=TwoWay}"
+                    Title="Select Materials"
+                    Style="{StaticResource PickerStyle}" />
+
+            <Label Text="How much time used for work?" 
+                   Style="{StaticResource LabelStyle}" />
+
+            <HorizontalStackLayout Grid.Column="0" HorizontalOptions="Center" Margin="20">
+                <Stepper Value="{Binding Invoice.TimeUsed, Mode=TwoWay}" 
+                         Style="{StaticResource StepperStyle}" />
+                <Label Text="Hours:" Style="{StaticResource LabelStyle}" />
+                <Label Text="{Binding Invoice.TimeUsed, StringFormat='{0}'}" Style="{StaticResource LabelStyle}" />
+                <Label Text="{Binding Invoice.Price, StringFormat='Price: {0} DKK'}" Style="{StaticResource LabelStyle}" />
+            </HorizontalStackLayout>
+
+            <HorizontalStackLayout Grid.Column="0" HorizontalOptions="Center" Margin="0,20">
+                <Button Command="{Binding ConfirmCommand}"
+                        Style="{StaticResource ConfirmButtonStyle}" />
+
+                <Button Command="{Binding CancelCommand}"
+                        Style="{StaticResource CancelButtonStyle}" />
+            </HorizontalStackLayout>
+
+        </StackLayout>
+
+        <StackLayout Grid.Column="1" VerticalOptions="Center">
+            <Image Source="yeah.jpg" Style="{StaticResource ImageStyle}" />
+        </StackLayout>
+
+    </Grid>
+</ContentPage>
